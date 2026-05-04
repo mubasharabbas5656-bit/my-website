@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First Website</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>My Website</h1>
+<p>This is my first live project</p>
+
+<img src="myimage.jpg" width="200">
+
+</body>
+</html>
